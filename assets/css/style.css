@@ -1,7 +1,7 @@
 *{
     background-color: black;
     color: white;
-    font-size: larger;
+   /* font-size: larger;*/
 }
 h1{
     Color: red;
@@ -36,4 +36,18 @@ h1{
 }
 ol{
     text-align: center;
+}
+#cao{
+    align-items: center;
+}
+div{
+    width: 250px;
+    max-height: 60px;
+    min-height: 20px;
+    border:2px solid;
+    color:red;
+}
+#obsCao{
+    text-align: center;
+    margin:2px;
 }
